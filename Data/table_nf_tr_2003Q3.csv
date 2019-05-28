@@ -1,0 +1,14 @@
+"","incomes_hh","expenditures_hh","incomes_fc","expenditures_fc","incomes_nfc","expenditures_nfc","incomes_gg","expenditures_gg","incomes_row","expenditures_row"
+"GDP",5569,0,2763,0,18061,0,3849,0,0,0
+"Wage Bill",12395,0,0,880,0,8177,0,3338,0,0
+"Net Taxes",0,2207,0,261,0,747,7018,0,0,212
+"Property Income:Interest",348,563,7391,3760,165,827,43,257,3387,5928
+"Incomes: Pensions & other",1343,0,0,1606,0,0,0,0,0,-263
+"Dividends",391,0,976,3411,572,13105,81,0,7248,0
+"Financial Consumption",933,847,1825,1846,132,207,84,406,1276,945
+"Consumption",0,15769,0,0,21461,0,0,5692,0,0
+"Capital Transfers",32,0,0,0,-199,0,0,-158,9,0
+"Gross capital formation",0,3778,0,158,7809,0,0,1113,0,0
+"Net Exports",0,0,0,0,28796,23340,0,0,23340,28796
+"net social contributions",467,0,693,0,0,0,0,1129,-31,0
+"Net Lending/Borrowing in non-financial account",0,-1687,0,1727,0,-60,0,-703,0,-386
